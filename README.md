@@ -1,3 +1,2 @@
 # bank-zbozowy-mvn
-https://github.com/aleksandrabamberska/bank-zbozowy-mvn/actions/workflows/<file>
-/badge.svg)
+https://github.com/aleksandrabamberska/bank-zbozowy-mvn/actions/workflows/.github/workflows/ci.yml
